@@ -1,0 +1,13 @@
+{
+  "name": "wow-pm-plugins",
+  "owner": {
+    "name": "Hanna Klim"
+  },
+  "plugins": [
+    {
+      "name": "wow-pm-toolkit",
+      "source": "./plugins/wow-pm-toolkit",
+      "description": "Набір PM-скілів для команди та ком'юніті PM_ON"
+    }
+  ]
+}
